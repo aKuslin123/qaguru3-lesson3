@@ -13,7 +13,7 @@ import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.Selenide.$;
 
 
-public class lesson3 {
+public class Lesson3 {
     // Arrange
     // Act
     // Assert
